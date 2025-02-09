@@ -3,6 +3,7 @@ import 'package:youtube/core/configs/app_colors.dart';
 
 class AppTheme {
   static final lightTheme = ThemeData(
+    useMaterial3: false,
     primaryColor: AppColors.primary,
     scaffoldBackgroundColor: AppColors.lightBackground,
     brightness: Brightness.light,
@@ -19,6 +20,7 @@ class AppTheme {
   );
 
   static final darkTheme = ThemeData(
+    useMaterial3: false,
     primaryColor: AppColors.primary,
     scaffoldBackgroundColor: AppColors.darkBackground,
     fontFamily: 'Satoshi',
