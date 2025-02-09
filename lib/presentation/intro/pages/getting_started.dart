@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:youtube/common/widgets/button/basic_app_button.dart';
-import 'package:youtube/core/configs/app_colors.dart';
-import 'package:youtube/core/configs/assets/app_images.dart';
-import 'package:youtube/core/configs/assets/app_vectors.dart';
-import 'package:youtube/presentation/choose_mode/pages/choose_mode.dart';
+import 'package:spotify/common/widgets/button/basic_app_button.dart';
+import 'package:spotify/core/configs/app_colors.dart';
+import 'package:spotify/core/configs/assets/app_images.dart';
+import 'package:spotify/core/configs/assets/app_vectors.dart';
+import 'package:spotify/presentation/choose_mode/pages/choose_mode.dart';
 
 class GettingStarted extends StatelessWidget {
   const GettingStarted({super.key});

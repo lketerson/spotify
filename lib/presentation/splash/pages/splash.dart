@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:youtube/core/configs/assets/app_vectors.dart';
-import 'package:youtube/presentation/intro/pages/getting_started.dart';
+import 'package:spotify/core/configs/assets/app_vectors.dart';
+import 'package:spotify/presentation/intro/pages/getting_started.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});

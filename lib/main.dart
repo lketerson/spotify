@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:youtube/presentation/splash/pages/splash.dart';
+import 'package:spotify/presentation/splash/pages/splash.dart';
 
 import 'core/configs/themes/app_theme.dart';
 

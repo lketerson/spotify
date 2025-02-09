@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:youtube/core/configs/app_colors.dart';
+import 'package:spotify/core/configs/app_colors.dart';
 
 class AppTheme {
   static final lightTheme = ThemeData(
